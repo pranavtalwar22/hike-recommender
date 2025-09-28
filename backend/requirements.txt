@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-CORS
+scikit-learn
+numpy
+pandas
+python-dotenv
