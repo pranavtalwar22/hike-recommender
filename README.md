@@ -1,4 +1,4 @@
-# Hike Recommender 🥾
+# Hike Recommender 
 
 An AI-powered hiking recommendation system that learns from your completed hikes to suggest new adventures tailored to your skill level and preferences.
 
